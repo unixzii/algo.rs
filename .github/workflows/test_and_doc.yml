@@ -14,13 +14,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Install latest nightly
+      uses: actions-rs/toolchain@v1
+      with:
+        toolchain: nightly
+        override: true
     - name: Build
-      run: cargo build --verbose
+      uses: actions-rs/cargo@v1
+      with:
+        command: build
+        args: --verbose --all-features
     - name: Run tests
-      run: cargo test --verbose
+      uses: actions-rs/cargo@v1
+      with:
+        command: test
+        args: --verbose
     - name: Build docs
+      uses: actions-rs/cargo@v1
+      with:
+        command: doc
+        args: --no-deps
+    - name: Create index.html
       run: |
-        cargo doc --no-deps
         echo "<meta http-equiv=\"refresh\" content=\"0; url=algo_rs\">" > target/doc/index.html
     - name: Deploy docs
       uses: JamesIves/github-pages-deploy-action@v4.2.5
