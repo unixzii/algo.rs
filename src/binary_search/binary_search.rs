@@ -12,7 +12,7 @@
 //!
 //! [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
-struct BinarySearch;
+pub struct BinarySearch;
 
 impl BinarySearch {
     pub fn search(nums: Vec<i32>, target: i32) -> i32 {

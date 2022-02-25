@@ -1,1 +1,3 @@
-mod binary_search;
+#![feature(cell_update)]
+
+pub mod binary_search;
