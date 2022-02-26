@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["binary_search",""]]});
+initSidebarItems({"mod":[["binary_search",""],["two_pointers",""]]});
