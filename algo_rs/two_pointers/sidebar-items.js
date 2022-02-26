@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["squares_of_sorted_array","Squares of a Sorted Array"]]});
+initSidebarItems({"mod":[["rotate_array","Rotate Array"],["squares_of_sorted_array","Squares of a Sorted Array"]]});
