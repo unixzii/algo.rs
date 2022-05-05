@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["binary_search",""],["math",""],["search",""],["stack",""],["two_pointers",""]]});
+initSidebarItems({"mod":[["binary_search",""],["math",""],["search",""],["sort",""],["stack",""],["two_pointers",""]]});
