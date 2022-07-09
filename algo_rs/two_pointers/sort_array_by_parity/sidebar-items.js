@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["SortArrayByParity",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["SortArrayByParity",""]]};

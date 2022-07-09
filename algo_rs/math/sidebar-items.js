@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["smallest_range_1","Smallest Range I"]]});
+window.SIDEBAR_ITEMS = {"mod":[["smallest_range_1","Smallest Range I"]]};

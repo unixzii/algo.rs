@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["SubarrayProductLessThanK",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["SubarrayProductLessThanK",""]]};

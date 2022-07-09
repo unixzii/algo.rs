@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["all_elements_in_two_binary_search_trees","All Elements in Two Binary Search Trees"],["minimum_genetic_mutation","Minimum Genetic Mutation"],["pacific_atlantic_water_flow","Pacific Atlantic Water Flow"]]});
+window.SIDEBAR_ITEMS = {"mod":[["all_elements_in_two_binary_search_trees","All Elements in Two Binary Search Trees"],["minimum_genetic_mutation","Minimum Genetic Mutation"],["pacific_atlantic_water_flow","Pacific Atlantic Water Flow"]]};

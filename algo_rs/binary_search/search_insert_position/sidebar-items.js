@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["SearchInsertPosition",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["SearchInsertPosition",""]]};

@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["binary_search","Binary Search"],["first_bad_version","First Bad Version"],["search_insert_position","Search Insert Position"]]});
+window.SIDEBAR_ITEMS = {"mod":[["binary_search","Binary Search"],["first_bad_version","First Bad Version"],["search_insert_position","Search Insert Position"]]};

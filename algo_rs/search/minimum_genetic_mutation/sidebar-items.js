@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["MinimumGeneticMutation",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["MinimumGeneticMutation",""]]};

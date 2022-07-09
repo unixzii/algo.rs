@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["SmallestRange1",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["SmallestRange1",""]]};

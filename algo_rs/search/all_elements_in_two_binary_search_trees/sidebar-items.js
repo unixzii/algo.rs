@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["AllElementsInTwoBinarySearchTrees",""],["TreeNode",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["AllElementsInTwoBinarySearchTrees",""],["TreeNode",""]]};

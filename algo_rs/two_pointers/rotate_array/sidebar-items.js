@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["RotateArray",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["RotateArray",""]]};

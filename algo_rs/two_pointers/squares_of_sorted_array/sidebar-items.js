@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["SquaresOfSortedArray",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["SquaresOfSortedArray",""]]};

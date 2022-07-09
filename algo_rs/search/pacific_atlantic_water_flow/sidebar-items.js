@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["PacificAtlanticWaterFlow",""]]});
+window.SIDEBAR_ITEMS = {"struct":[["PacificAtlanticWaterFlow",""]]};

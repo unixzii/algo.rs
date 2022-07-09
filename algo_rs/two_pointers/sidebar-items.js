@@ -1,1 +1,1 @@
-initSidebarItems({"mod":[["rotate_array","Rotate Array"],["sort_array_by_parity","Sort Array By Parity"],["squares_of_sorted_array","Squares of a Sorted Array"],["subarray_product_less_than_k","Subarray Product Less Than K"]]});
+window.SIDEBAR_ITEMS = {"mod":[["rotate_array","Rotate Array"],["sort_array_by_parity","Sort Array By Parity"],["squares_of_sorted_array","Squares of a Sorted Array"],["subarray_product_less_than_k","Subarray Product Less Than K"]]};
