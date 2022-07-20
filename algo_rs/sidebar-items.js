@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":[["binary_search",""],["hash_map",""],["math",""],["search",""],["sort",""],["stack",""],["tree",""],["two_pointers",""]]};
+window.SIDEBAR_ITEMS = {"mod":[["array",""],["binary_search",""],["hash_map",""],["math",""],["search",""],["sort",""],["stack",""],["tree",""],["two_pointers",""]]};
