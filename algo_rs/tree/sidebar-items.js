@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":[["serialize_deserialize_bst","Serialize and Deserialize BST"]]};
+window.SIDEBAR_ITEMS = {"mod":[["binary_tree_pruning","Binary Tree Pruning"],["serialize_deserialize_bst","Serialize and Deserialize BST"]]};
